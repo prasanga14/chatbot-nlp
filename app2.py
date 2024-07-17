@@ -79,4 +79,3 @@ if query:
     
     st.write("Answer:")
     st.write(wrap_text_preserve_newlines(document[most_similar_doc_index]))
-
